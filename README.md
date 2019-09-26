@@ -1,12 +1,7 @@
 # Hello-World
-#I write you.
-Is its all most time to plant.
-Thu July 18, 2019 
-BirthTime:00:24- 
-#Batch: 6BCV.1 
-#Code: WFOG
-Count:21.7%
-##################################
-SeedTime:-
-##################################
-Water s
+#My Name is Roderick Douglas
+#in retro spec im a noob in the cyber security world.
+#I have perviously taken Network Security 1 At a local CC where i live.
+#Ive taken HTML5&Css3 Web design also.
+#I have been involed with computers since i was 5 years old.
+
